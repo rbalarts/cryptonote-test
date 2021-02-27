@@ -1,0 +1,360 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/bsdqueue.h
+
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/codelength.h
+
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/connecthostport.c
+string.h
+-
+stdio.h
+-
+winsock2.h
+-
+ws2tcpip.h
+-
+io.h
+-
+unistd.h
+-
+sys/param.h
+-
+sys/select.h
+-
+errno.h
+-
+netdb.h
+-
+netinet/in.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+sys/select.h
+-
+connecthostport.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/connecthostport.h
+
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/connecthostport.h
+
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/declspec.h
+
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/igd_desc_parse.c
+igd_desc_parse.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/igd_desc_parse.h
+stdio.h
+-
+string.h
+-
+
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/igd_desc_parse.h
+
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/minisoap.c
+stdio.h
+-
+string.h
+-
+io.h
+-
+winsock2.h
+-
+unistd.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+minisoap.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/minisoap.h
+miniupnpcstrings.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/miniupnpcstrings.h
+stdlib.h
+-
+
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/minisoap.h
+
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/minissdpc.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+unistd.h
+-
+sys/types.h
+-
+winsock2.h
+-
+ws2tcpip.h
+-
+io.h
+-
+winsock.h
+-
+stdint.h
+-
+sys/socket.h
+-
+sys/socket.h
+-
+sys/un.h
+-
+minissdpc.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/minissdpc.h
+miniupnpc.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/miniupnpc.h
+codelength.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/codelength.h
+
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/minissdpc.h
+
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/miniupnpc.c
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+winsock2.h
+-
+ws2tcpip.h
+-
+io.h
+-
+iphlpapi.h
+-
+unistd.h
+-
+sys/select.h
+-
+sys/socket.h
+-
+sys/types.h
+-
+sys/param.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+netdb.h
+-
+net/if.h
+-
+poll.h
+-
+strings.h
+-
+errno.h
+-
+sys/time.h
+-
+miniupnpc.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/miniupnpc.h
+minissdpc.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/minissdpc.h
+miniwget.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/miniwget.h
+minisoap.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/minisoap.h
+minixml.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/minixml.h
+upnpcommands.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/upnpcommands.h
+connecthostport.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/connecthostport.h
+receivedata.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/receivedata.h
+
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/miniupnpc.h
+declspec.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/declspec.h
+igd_desc_parse.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/igd_desc_parse.h
+
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/miniupnpctypes.h
+
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/miniwget.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+ctype.h
+-
+winsock2.h
+-
+ws2tcpip.h
+-
+io.h
+-
+unistd.h
+-
+sys/param.h
+-
+sys/select.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+net/if.h
+-
+netdb.h
+-
+miniupnpcstrings.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/miniupnpcstrings.h
+miniwget.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/miniwget.h
+connecthostport.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/connecthostport.h
+receivedata.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/receivedata.h
+
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/miniwget.h
+declspec.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/declspec.h
+
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/minixml.c
+string.h
+-
+minixml.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/minixml.h
+
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/minixml.h
+
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/portlistingparse.c
+string.h
+-
+stdlib.h
+-
+portlistingparse.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/portlistingparse.h
+minixml.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/minixml.h
+
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/portlistingparse.h
+declspec.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/declspec.h
+miniupnpctypes.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/miniupnpctypes.h
+bsdqueue.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/bsdqueue.h
+sys/queue.h
+-
+
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/receivedata.c
+stdio.h
+-
+winsock2.h
+-
+ws2tcpip.h
+-
+unistd.h
+-
+sys/select.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+poll.h
+-
+errno.h
+-
+receivedata.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/receivedata.h
+
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/receivedata.h
+
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/upnpc.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+winsock2.h
+-
+netinet/in.h
+-
+miniwget.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/miniwget.h
+miniupnpc.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/miniupnpc.h
+upnpcommands.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/upnpcommands.h
+upnperrors.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/upnperrors.h
+
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/upnpcommands.c
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+upnpcommands.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/upnpcommands.h
+miniupnpc.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/miniupnpc.h
+portlistingparse.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/portlistingparse.h
+
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/upnpcommands.h
+upnpreplyparse.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/upnpreplyparse.h
+portlistingparse.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/portlistingparse.h
+declspec.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/declspec.h
+miniupnpctypes.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/miniupnpctypes.h
+
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/upnperrors.c
+string.h
+-
+upnperrors.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/upnperrors.h
+upnpcommands.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/upnpcommands.h
+miniupnpc.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/miniupnpc.h
+
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/upnperrors.h
+declspec.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/declspec.h
+
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/upnpreplyparse.c
+stdlib.h
+-
+string.h
+-
+stdio.h
+-
+upnpreplyparse.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/upnpreplyparse.h
+minixml.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/minixml.h
+
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/upnpreplyparse.h
+bsdqueue.h
+/cygdrive/c/Documents and Settings/Rajnish/Desktop/cryptonote-master/external/miniupnpc/bsdqueue.h
+sys/queue.h
+-
+
+miniupnpcstrings.h
+
